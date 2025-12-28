@@ -1,3 +1,11 @@
+-- database: ../healthcare_claims.db
+-- ============================================================
+-- Project: Healthcare Claims Funnel Analysis
+-- Database: SQLite
+-- Author: Priyanshi Saxena
+-- Description:
+-- Executive-level funnel, approval, revenue, and risk analysis
+-- ============================================================
 -- database: ./Healthcare_Folder/healthcare-claims-funnel/healthcare_claims.db
 
 -- Use the ▷ button in the top right corner to run the entire file.
